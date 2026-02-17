@@ -1,0 +1,14 @@
+{
+  "raw_output": "{\n  \"verdict\": \"incorrect\",\n  \"score\": 0,\n  \"reasons\": [\"The solution does not run in O(n) time as required by the problem constraints.\"],\n  \"evidence_used\": [\"code_only\"],\n  \"confidence\": 1.0\n}",
+  "parsed": {
+    "verdict": "incorrect",
+    "score": 0,
+    "reasons": [
+      "The solution does not run in O(n) time as required by the problem constraints."
+    ],
+    "evidence_used": [
+      "code_only"
+    ],
+    "confidence": 1.0
+  }
+}

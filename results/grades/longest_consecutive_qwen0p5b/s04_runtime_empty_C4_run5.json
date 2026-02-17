@@ -1,0 +1,18 @@
+{
+  "raw_output": "{\n  \"verdict\": \"correct\",\n  \"score\": 99,\n  \"reasons\": [\"The function correctly calculates the length of the longest consecutive sequence by iterating through the sorted list and tracking the current streak of consecutive numbers.\", \"The logic uses two pointers to find the longest sequence efficiently.\", \"The solution has a time complexity of O(n)\", \"The space complexity is O(1) as it only uses a constant amount of extra space.\"],\n  \"evidence_used\": [\"code_only\", \"tests_summary\"],\n  \"confidence\": 1.0\n}",
+  "parsed": {
+    "verdict": "correct",
+    "score": 99,
+    "reasons": [
+      "The function correctly calculates the length of the longest consecutive sequence by iterating through the sorted list and tracking the current streak of consecutive numbers.",
+      "The logic uses two pointers to find the longest sequence efficiently.",
+      "The solution has a time complexity of O(n)",
+      "The space complexity is O(1) as it only uses a constant amount of extra space."
+    ],
+    "evidence_used": [
+      "code_only",
+      "tests_summary"
+    ],
+    "confidence": 1.0
+  }
+}

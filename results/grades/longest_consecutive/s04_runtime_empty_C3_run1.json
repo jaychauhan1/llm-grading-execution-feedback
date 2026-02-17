@@ -1,0 +1,15 @@
+{
+  "raw_output": "{\n  \"verdict\": \"incorrect\",\n  \"score\": 0,\n  \"reasons\": [\"The solution does not run in O(n) time as required by the problem constraints.\", \"Sorting the input array takes O(n log n) time, which violates the O(n) time complexity requirement.\"],\n  \"evidence_used\": [\"code_only\"],\n  \"confidence\": 1.0\n}",
+  "parsed": {
+    "verdict": "incorrect",
+    "score": 0,
+    "reasons": [
+      "The solution does not run in O(n) time as required by the problem constraints.",
+      "Sorting the input array takes O(n log n) time, which violates the O(n) time complexity requirement."
+    ],
+    "evidence_used": [
+      "code_only"
+    ],
+    "confidence": 1.0
+  }
+}

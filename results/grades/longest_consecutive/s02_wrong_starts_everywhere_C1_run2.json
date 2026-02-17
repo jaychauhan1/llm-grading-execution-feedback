@@ -1,0 +1,15 @@
+{
+  "raw_output": "{\n  \"verdict\": \"incorrect\",\n  \"score\": 50,\n  \"reasons\": [\n    \"The solution does not meet the O(n) time complexity requirement.\",\n    \"The solution has a time complexity of O(n^2) due to the nested loop.\"\n  ],\n  \"evidence_used\": [\"code_only\"],\n  \"confidence\": 1.0\n}",
+  "parsed": {
+    "verdict": "incorrect",
+    "score": 50,
+    "reasons": [
+      "The solution does not meet the O(n) time complexity requirement.",
+      "The solution has a time complexity of O(n^2) due to the nested loop."
+    ],
+    "evidence_used": [
+      "code_only"
+    ],
+    "confidence": 1.0
+  }
+}

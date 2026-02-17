@@ -1,0 +1,14 @@
+{
+  "raw_output": "{\n  \"verdict\": \"incorrect\",\n  \"score\": 0,\n  \"reasons\": [\"The solution does not meet the requirement of running in O(n) time complexity. The current implementation sorts the array, which takes O(n log n) time.\"],\n  \"evidence_used\": [\"code_only\"],\n  \"confidence\": 1.0\n}",
+  "parsed": {
+    "verdict": "incorrect",
+    "score": 0,
+    "reasons": [
+      "The solution does not meet the requirement of running in O(n) time complexity. The current implementation sorts the array, which takes O(n log n) time."
+    ],
+    "evidence_used": [
+      "code_only"
+    ],
+    "confidence": 1.0
+  }
+}

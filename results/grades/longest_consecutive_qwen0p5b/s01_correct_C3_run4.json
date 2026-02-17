@@ -1,0 +1,20 @@
+{
+  "raw_output": "{\n  \"verdict\": \"correct\",\n  \"score\": 95,\n  \"reasons\": [\"The function correctly implements the logic to find the longest consecutive sequence in the given array.\", \"The solution efficiently handles all edge cases and constraints provided.\",\n              \"The implementation is straightforward and uses only constant space.\",\n              \"The time complexity is O(n), which meets the problem's requirements.\",\n              \"The space complexity is also O(n), as it stores the unique numbers in a set.\",\n              \"The function passes all test cases without errors.\"],\n  \"evidence_used\": [\"code_only\", \"tests_summary\"],\n  \"confidence\": 0.95\n}",
+  "parsed": {
+    "verdict": "correct",
+    "score": 95,
+    "reasons": [
+      "The function correctly implements the logic to find the longest consecutive sequence in the given array.",
+      "The solution efficiently handles all edge cases and constraints provided.",
+      "The implementation is straightforward and uses only constant space.",
+      "The time complexity is O(n), which meets the problem's requirements.",
+      "The space complexity is also O(n), as it stores the unique numbers in a set.",
+      "The function passes all test cases without errors."
+    ],
+    "evidence_used": [
+      "code_only",
+      "tests_summary"
+    ],
+    "confidence": 0.95
+  }
+}

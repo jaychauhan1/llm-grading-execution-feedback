@@ -1,0 +1,15 @@
+{
+  "raw_output": "{\n  \"verdict\": \"incorrect\",\n  \"score\": 0,\n  \"reasons\": [\n    \"The solution does not meet the O(n) time complexity requirement.\",\n    \"The solution sorts the input array, which takes O(n log n) time.\"\n  ],\n  \"evidence_used\": [\"code_only\"],\n  \"confidence\": 1.0\n}",
+  "parsed": {
+    "verdict": "incorrect",
+    "score": 0,
+    "reasons": [
+      "The solution does not meet the O(n) time complexity requirement.",
+      "The solution sorts the input array, which takes O(n log n) time."
+    ],
+    "evidence_used": [
+      "code_only"
+    ],
+    "confidence": 1.0
+  }
+}

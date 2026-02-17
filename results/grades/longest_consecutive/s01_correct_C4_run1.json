@@ -1,0 +1,15 @@
+{
+  "raw_output": "{\n  \"verdict\": \"correct\",\n  \"score\": 100,\n  \"reasons\": [\"The solution correctly implements the algorithm to find the length of the longest consecutive elements sequence in O(n) time.\", \"It handles all given examples and constraints effectively.\"],\n  \"evidence_used\": [\"code_only\"],\n  \"confidence\": 1.0\n}",
+  "parsed": {
+    "verdict": "correct",
+    "score": 100,
+    "reasons": [
+      "The solution correctly implements the algorithm to find the length of the longest consecutive elements sequence in O(n) time.",
+      "It handles all given examples and constraints effectively."
+    ],
+    "evidence_used": [
+      "code_only"
+    ],
+    "confidence": 1.0
+  }
+}

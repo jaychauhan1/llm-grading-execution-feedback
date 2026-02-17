@@ -1,0 +1,19 @@
+{
+  "raw_output": "{\n  \"verdict\": \"correct\",\n  \"score\": 95,\n  \"reasons\": [\"The function correctly implements the logic to find the longest consecutive sequence in the given list.\", \"The solution is efficient and runs in O(n) time complexity.\", \"The provided implementation avoids using any external libraries or modules.\", \"The code snippet is self-contained and clear.\", \"The constraints and examples are met within the given range.\"],\n  \"evidence_used\": [\"code_only\", \"tests_summary\"],\n  \"confidence\": 0.95\n}",
+  "parsed": {
+    "verdict": "correct",
+    "score": 95,
+    "reasons": [
+      "The function correctly implements the logic to find the longest consecutive sequence in the given list.",
+      "The solution is efficient and runs in O(n) time complexity.",
+      "The provided implementation avoids using any external libraries or modules.",
+      "The code snippet is self-contained and clear.",
+      "The constraints and examples are met within the given range."
+    ],
+    "evidence_used": [
+      "code_only",
+      "tests_summary"
+    ],
+    "confidence": 0.95
+  }
+}
