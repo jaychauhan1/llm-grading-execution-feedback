@@ -116,22 +116,3 @@ results/
   tables/     # consistency & accuracy metrics
 ```
 
----
-
-## Research Goal
-
-Move from **prompt-only grading → execution-grounded evaluation**, enabling:
-
-- Evidence-based code assessment
-- Grading consistency measurement
-- Controlled comparison of runtime feedback conditions
-- Integration with agent memory for longitudinal student modeling
-
----
-
-## Future Work
-
-- Rubric-based grading
-- Automatic test generation & coverage
-- Larger model evaluation
-- Qwen-Agent memory integration
