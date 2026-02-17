@@ -1,0 +1,17 @@
+{
+  "problem_id": "longest_consecutive",
+  "submission_file": "s04_runtime_empty.py",
+  "passed": 26,
+  "failed": 1,
+  "runtime_ms": 0,
+  "failures": [
+    {
+      "test_id": 2,
+      "input": [],
+      "expected": 0,
+      "got": 1,
+      "error": null
+    }
+  ],
+  "ground_truth_label": "incorrect"
+}

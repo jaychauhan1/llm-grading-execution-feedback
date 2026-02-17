@@ -1,0 +1,7 @@
+{
+  "s01_correct.py": "correct",
+  "s02_wrong_starts_everywhere.py": "partial",
+  "s03_sorting_nlogn.py": "partial",
+  "s04_runtime_empty.py": "incorrect"
+}
+

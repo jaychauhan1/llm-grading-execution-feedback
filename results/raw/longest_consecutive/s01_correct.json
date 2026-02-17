@@ -1,0 +1,9 @@
+{
+  "problem_id": "longest_consecutive",
+  "submission_file": "s01_correct.py",
+  "passed": 27,
+  "failed": 0,
+  "runtime_ms": 0,
+  "failures": [],
+  "ground_truth_label": "correct"
+}
